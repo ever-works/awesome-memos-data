@@ -1,0 +1,30 @@
+name: Why Alto? by Butler Lampson at Xerox
+description: Document from 1972 by Butler Lampson initiating development of the
+  Xerox Alto, the first computer with a graphical user interface and mouse. It
+  justifies the need for a personal workstation with innovative features like
+  bitmap display and Ethernet. This memo laid the foundation for modern
+  computing interfaces.
+source_url: https://www.alexanderjarvis.com/why-alto/
+category: Memos
+tags:
+  - xerox
+  - historical
+  - computing
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Computer development for a critical computer began in 1972 with a document
+  “Why Alto?” Written by Butler Lampson. This is the memo.
+
+
+  ## Context
+
+
+  It proposed building the Alto as a personal computer for research, influencing
+  GUI and networking technologies.
+brand: Xerox
+images:
+  - https://v5.airtableusercontent.com/v3/u/52/52/1777363200000/X3sa7BtqwOAaKIA2IqTC8g/uBXdYeSTLDXn6dUgofv-_yRtTIcr7VQfRKMd_9RBvoNFyu_LIjEAr96FZO15G4ELRMmyxsQtcZV-IUFqpjX9Swn8uHkRouKlvTx5wNi9BHUCUpNgnHZsGCMs__zbBv3eN3sOpDB9PThjl4z8BQLvqQ/YI2UqVGpBGM_ymXCJ0xIa0ycPhyIiJi4GJyqqbb5VW8?w=400&auto=compress
+updated_at: 2026-04-28 13:06
