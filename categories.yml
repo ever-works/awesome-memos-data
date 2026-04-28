@@ -1,0 +1,4 @@
+- id: memos
+  name: Memos
+- id: memo-templates
+  name: Memo Templates
