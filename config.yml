@@ -34,11 +34,11 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.0
+version: 0.1.1
 metadata:
   last_request_data:
     generation_method: create-update
-    update_with_pull_request: true
+    update_with_pull_request: false
     website_repository_creation_method: create-using-template
     name: Awesome Memos
     prompt: Directory of best memos. Make sure each memo has a picture at minimum
@@ -60,6 +60,11 @@ metadata:
       max_pages_to_process: 20
       capture_screenshots: true
     _processedPluginConfig: {}
+    config:
+      max_search_queries: 10
+      max_results_per_query: 5
+      max_pages_to_process: 10
+      ai_first_generation_enabled: false
   initial_prompt: Directory of best memos. Make sure each memo has a picture at
     minimum and some description that include what does it mean, how it was
     created, some context etc.
