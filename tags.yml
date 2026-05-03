@@ -334,3 +334,19 @@
   name: Us Department Of Justice
 - id: fbi-memo
   name: Fbi Memo
+- id: cuba
+  name: Cuba
+- id: missile-crisis
+  name: Missile Crisis
+- id: international-law
+  name: International Law
+- id: cold-war
+  name: Cold War
+- id: diplomacy
+  name: Diplomacy
+- id: medieval
+  name: Medieval
+- id: human-rights
+  name: Human Rights
+- id: nara
+  name: NARA
