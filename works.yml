@@ -1,8 +1,8 @@
 name: Awesome Memos
 providers:
   pipeline: agent-pipeline
-  ai: openrouter
   search: tavily
+  ai: openrouter
   contentExtractor: tavily
 website_repo: ever-works/awesome-memos-website
 schedule:
