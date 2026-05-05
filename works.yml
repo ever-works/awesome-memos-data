@@ -68,3 +68,13 @@ metadata:
   initial_prompt: Directory of best memos. Make sure each memo has a picture at
     minimum and some description that include what does it mean, how it was
     created, some context etc.
+name: Awesome Memos
+providers:
+  pipeline: agent-pipeline
+  ai: openrouter
+  search: tavily
+  contentExtractor: tavily
+website_repo: ever-works/awesome-memos-website
+schedule:
+  enabled: true
+  cadence: daily
