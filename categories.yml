@@ -2,3 +2,5 @@
   name: Memos
 - id: memo-templates
   name: Memo Templates
+- id: historical-document
+  name: Historical Document

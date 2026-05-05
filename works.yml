@@ -34,7 +34,7 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.3
+version: 0.1.4
 metadata:
   last_request_data:
     generation_method: create-update
@@ -71,10 +71,14 @@ metadata:
 name: Awesome Memos
 providers:
   pipeline: agent-pipeline
-  ai: openrouter
   search: tavily
+  ai: openrouter
   contentExtractor: tavily
 website_repo: ever-works/awesome-memos-website
 schedule:
   enabled: true
   cadence: daily
+initial_prompt: Directory of best memos. Make sure each memo has a picture at
+  minimum and some description that include what does it mean, how it was
+  created, some context etc.
+deployProvider: vercel
