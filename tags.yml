@@ -376,3 +376,11 @@
   name: Chamber Of Commerce
 - id: free-enterprise
   name: Free Enterprise
+- id: innovation
+  name: Innovation
+- id: literature
+  name: Literature
+- id: manuscript
+  name: Manuscript
+- id: 19th-century
+  name: 19th Century

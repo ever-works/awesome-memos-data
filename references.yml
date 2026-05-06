@@ -24,6 +24,24 @@
   pipeline: agent-pipeline
   provider: Tavily
   error: No items extracted
+- url: https://prologue.blogs.archives.gov/memo-image-for-blog/
+  normalized_url: https://prologue.blogs.archives.gov/memo-image-for-blog
+  first_seen_at: 2026-05-06T20:58:16.517Z
+  last_attempted_at: 2026-05-06T20:58:16.517Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://reclaimdemocracy.org/powell_memo_lewis/
+  normalized_url: https://reclaimdemocracy.org/powell_memo_lewis
+  first_seen_at: 2026-05-06T20:31:06.064Z
+  last_attempted_at: 2026-05-06T20:31:06.064Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
 - url: https://sriramk.com/memos
   normalized_url: https://sriramk.com/memos
   first_seen_at: 2026-05-05T20:23:28.338Z
@@ -42,6 +60,40 @@
   pipeline: agent-pipeline
   provider: Tavily
   error: No items extracted
+- url: https://www.courant.com/2020/01/16/the-most-famous-handwritten-documents-throughout-history/
+  normalized_url: https://www.courant.com/2020/01/16/the-most-famous-handwritten-documents-throughout-history
+  first_seen_at: 2026-05-06T20:18:27.121Z
+  last_attempted_at: 2026-05-06T20:18:27.121Z
+  last_success_at: 2026-05-06T20:18:27.121Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.danielscrivner.com/memos-from-the-chairman-the-famous-memos-of-bear-stearns-chairman-alan-c-greenberg/
+  normalized_url: https://www.danielscrivner.com/memos-from-the-chairman-the-famous-memos-of-bear-stearns-chairman-alan-c-greenberg
+  first_seen_at: 2026-05-06T20:25:08.018Z
+  last_attempted_at: 2026-05-06T20:25:08.018Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://www.forbes.com/sites/andyboynton/2014/01/09/greatest-memo-ever/
+  normalized_url: https://www.forbes.com/sites/andyboynton/2014/01/09/greatest-memo-ever
+  first_seen_at: 2026-05-06T20:54:46.359Z
+  last_attempted_at: 2026-05-06T20:54:46.359Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://www.inc.com/bill-murphy-jr/apple-sent-this-8-sentence-memo-to-its-top-people-39-years-ago-results-were-game-changing-and-yes-you-should-copy-it.html
+  normalized_url: https://www.inc.com/bill-murphy-jr/apple-sent-this-8-sentence-memo-to-its-top-people-39-years-ago-results-were-game-changing-and-yes-you-should-copy-it.html
+  first_seen_at: 2026-05-06T20:36:50.136Z
+  last_attempted_at: 2026-05-06T20:36:50.136Z
+  last_success_at: 2026-05-06T20:36:50.136Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
 - url: https://www.inc.com/jeff-haden/the-best-example-of-an-unforgettable-company-wide-memo-was-written-30-years-ago-at-microsoft.html
   normalized_url: https://www.inc.com/jeff-haden/the-best-example-of-an-unforgettable-company-wide-memo-was-written-30-years-ago-at-microsoft.html
   first_seen_at: 2026-05-05T20:30:24.305Z
@@ -60,6 +112,23 @@
   pipeline: agent-pipeline
   provider: Tavily
   error: No items extracted
+- url: https://www.linkedin.com/posts/malcolmlewis_10-classic-investment-memos-from-bessemer-activity-7211661972939972608-fIh1
+  normalized_url: https://www.linkedin.com/posts/malcolmlewis_10-classic-investment-memos-from-bessemer-activity-7211661972939972608-fIh1
+  first_seen_at: 2026-05-06T20:49:05.702Z
+  last_attempted_at: 2026-05-06T20:49:05.702Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://www.moaf.org/news/press_releases/2025-10-14-howard-marks-iconic-memos-join-permanent-collection-at-the-museum-of-american-finance
+  normalized_url: https://www.moaf.org/news/press_releases/2025-10-14-howard-marks-iconic-memos-join-permanent-collection-at-the-museum-of-american-finance
+  first_seen_at: 2026-05-06T20:40:29.660Z
+  last_attempted_at: 2026-05-06T20:40:29.660Z
+  last_success_at: 2026-05-06T20:40:29.660Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
 - url: https://www.trevormckendrick.com/essays/obscure-and-interesting-memos/
   normalized_url: https://www.trevormckendrick.com/essays/obscure-and-interesting-memos
   first_seen_at: 2026-05-05T20:43:21.680Z
