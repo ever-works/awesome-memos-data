@@ -384,3 +384,23 @@
   name: Manuscript
 - id: 19th-century
   name: 19th Century
+- id: nixon-administration
+  name: Nixon Administration
+- id: white-house-staff
+  name: White House Staff
+- id: 1972-campaign
+  name: 1972 Campaign
+- id: albert-einstein
+  name: Albert Einstein
+- id: citizenship
+  name: Citizenship
+- id: congress
+  name: Congress
+- id: naturalization
+  name: Naturalization
+- id: truman-doctrine
+  name: Truman Doctrine
+- id: "1947"
+  name: "1947"
+- id: foreign-policy
+  name: Foreign Policy

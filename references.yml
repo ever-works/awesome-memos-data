@@ -14,7 +14,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL: https://lethain.com/more-great-memos/"
 - url: https://news.lettersofnote.com/p/in-event-of-moon-disaster
   normalized_url: https://news.lettersofnote.com/p/in-event-of-moon-disaster
   first_seen_at: 2026-05-05T20:40:29.613Z
@@ -23,7 +23,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://news.lettersofnote.com/p/in-event-of-moon-disaster"
 - url: https://prologue.blogs.archives.gov/memo-image-for-blog/
   normalized_url: https://prologue.blogs.archives.gov/memo-image-for-blog
   first_seen_at: 2026-05-06T20:58:16.517Z
@@ -32,7 +33,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://prologue.blogs.archives.gov/memo-image-for-blog/"
 - url: https://reclaimdemocracy.org/powell_memo_lewis/
   normalized_url: https://reclaimdemocracy.org/powell_memo_lewis
   first_seen_at: 2026-05-06T20:31:06.064Z
@@ -41,7 +43,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://reclaimdemocracy.org/powell_memo_lewis/"
 - url: https://sriramk.com/memos
   normalized_url: https://sriramk.com/memos
   first_seen_at: 2026-05-05T20:23:28.338Z
@@ -50,7 +53,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL: https://sriramk.com/memos"
 - url: https://www.alexanderjarvis.com/resources/collections/collection-of-interesting-memos/
   normalized_url: https://www.alexanderjarvis.com/resources/collections/collection-of-interesting-memos
   first_seen_at: 2026-05-05T20:28:37.386Z
@@ -59,7 +62,17 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://www.alexanderjarvis.com/resources/collections/collection-of-interes\
+    ting-memos/"
+- url: https://www.archives.gov/milestone-documents/list
+  normalized_url: https://www.archives.gov/milestone-documents/list
+  first_seen_at: 2026-05-07T23:32:38.153Z
+  last_attempted_at: 2026-05-07T23:32:38.153Z
+  last_success_at: 2026-05-07T23:32:38.153Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
 - url: https://www.courant.com/2020/01/16/the-most-famous-handwritten-documents-throughout-history/
   normalized_url: https://www.courant.com/2020/01/16/the-most-famous-handwritten-documents-throughout-history
   first_seen_at: 2026-05-06T20:18:27.121Z
@@ -76,7 +89,9 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://www.danielscrivner.com/memos-from-the-chairman-the-famous-memos-of-\
+    bear-stearns-chairman-alan-c-greenberg/"
 - url: https://www.forbes.com/sites/andyboynton/2014/01/09/greatest-memo-ever/
   normalized_url: https://www.forbes.com/sites/andyboynton/2014/01/09/greatest-memo-ever
   first_seen_at: 2026-05-06T20:54:46.359Z
@@ -85,7 +100,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://www.forbes.com/sites/andyboynton/2014/01/09/greatest-memo-ever/"
 - url: https://www.inc.com/bill-murphy-jr/apple-sent-this-8-sentence-memo-to-its-top-people-39-years-ago-results-were-game-changing-and-yes-you-should-copy-it.html
   normalized_url: https://www.inc.com/bill-murphy-jr/apple-sent-this-8-sentence-memo-to-its-top-people-39-years-ago-results-were-game-changing-and-yes-you-should-copy-it.html
   first_seen_at: 2026-05-06T20:36:50.136Z
@@ -102,7 +118,9 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://www.inc.com/jeff-haden/the-best-example-of-an-unforgettable-company\
+    -wide-memo-was-written-30-years-ago-at-microsoft.html"
 - url: https://www.kholia.org/reading-list/memos
   normalized_url: https://www.kholia.org/reading-list/memos
   first_seen_at: 2026-05-05T20:18:49.731Z
@@ -111,7 +129,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL: https://www.kholia.org/reading-list/memos"
 - url: https://www.linkedin.com/posts/malcolmlewis_10-classic-investment-memos-from-bessemer-activity-7211661972939972608-fIh1
   normalized_url: https://www.linkedin.com/posts/malcolmlewis_10-classic-investment-memos-from-bessemer-activity-7211661972939972608-fIh1
   first_seen_at: 2026-05-06T20:49:05.702Z
@@ -120,7 +138,9 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://www.linkedin.com/posts/malcolmlewis_10-classic-investment-memos-fro\
+    m-bessemer-activity-7211661972939972608-fIh1"
 - url: https://www.moaf.org/news/press_releases/2025-10-14-howard-marks-iconic-memos-join-permanent-collection-at-the-museum-of-american-finance
   normalized_url: https://www.moaf.org/news/press_releases/2025-10-14-howard-marks-iconic-memos-join-permanent-collection-at-the-museum-of-american-finance
   first_seen_at: 2026-05-06T20:40:29.660Z
@@ -128,6 +148,14 @@
   last_success_at: 2026-05-06T20:40:29.660Z
   status: success
   items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.theatlantic.com/national/archive/2013/08/civil-rights-cambodia-and-cuba-memos-that-made-history/278559/
+  normalized_url: https://www.theatlantic.com/national/archive/2013/08/civil-rights-cambodia-and-cuba-memos-that-made-history/278559
+  first_seen_at: 2026-05-07T23:21:35.679Z
+  last_attempted_at: 2026-05-07T23:21:35.679Z
+  last_success_at: 2026-05-07T23:21:35.679Z
+  status: success
+  items_created: 4
   pipeline: agent-pipeline
 - url: https://www.trevormckendrick.com/essays/obscure-and-interesting-memos/
   normalized_url: https://www.trevormckendrick.com/essays/obscure-and-interesting-memos
@@ -137,4 +165,23 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://www.trevormckendrick.com/essays/obscure-and-interesting-memos/"
+- url: https://www.whitehousehistory.org/photos/charles-colsons-memorandum
+  normalized_url: https://www.whitehousehistory.org/photos/charles-colsons-memorandum
+  first_seen_at: 2026-05-07T23:17:29.868Z
+  last_attempted_at: 2026-05-07T23:17:29.868Z
+  last_success_at: 2026-05-07T23:17:29.868Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.windwardstudios.com/blog/15-historical-documents
+  normalized_url: https://www.windwardstudios.com/blog/15-historical-documents
+  first_seen_at: 2026-05-07T23:36:30.660Z
+  last_attempted_at: 2026-05-07T23:36:30.660Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL:
+    https://www.windwardstudios.com/blog/15-historical-documents"
