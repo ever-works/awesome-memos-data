@@ -71,8 +71,8 @@ metadata:
 name: Awesome Memos
 providers:
   pipeline: agent-pipeline
-  search: tavily
   ai: openrouter
+  search: tavily
   contentExtractor: tavily
 website_repo: ever-works/awesome-memos-website
 schedule:
