@@ -6,6 +6,22 @@
   status: success
   items_created: 1
   pipeline: agent-pipeline
+- url: https://commons.wikimedia.org/wiki/File:Atari_Memo_-_Steve_Jobs.webp
+  normalized_url: https://commons.wikimedia.org/wiki/File:Atari_Memo_-_Steve_Jobs.webp
+  first_seen_at: 2026-05-08T03:04:17.464Z
+  last_attempted_at: 2026-05-08T03:04:17.464Z
+  last_success_at: 2026-05-08T03:04:17.464Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://iconicphotos.wordpress.com/2018/05/31/roswell-memo/
+  normalized_url: https://iconicphotos.wordpress.com/2018/05/31/roswell-memo
+  first_seen_at: 2026-05-08T02:54:28.940Z
+  last_attempted_at: 2026-05-08T02:54:28.940Z
+  last_success_at: 2026-05-08T02:54:28.940Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
 - url: https://lethain.com/more-great-memos/
   normalized_url: https://lethain.com/more-great-memos
   first_seen_at: 2026-05-05T20:33:37.102Z
@@ -54,6 +70,16 @@
   pipeline: agent-pipeline
   provider: Tavily
   error: "No items retrieved from URL: https://sriramk.com/memos"
+- url: https://themeanderer.ca/the-confidential-lewis-powell-memo-1971/
+  normalized_url: https://themeanderer.ca/the-confidential-lewis-powell-memo-1971
+  first_seen_at: 2026-05-08T03:07:41.211Z
+  last_attempted_at: 2026-05-08T03:07:41.211Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL:
+    https://themeanderer.ca/the-confidential-lewis-powell-memo-1971/"
 - url: https://www.alexanderjarvis.com/resources/collections/collection-of-interesting-memos/
   normalized_url: https://www.alexanderjarvis.com/resources/collections/collection-of-interesting-memos
   first_seen_at: 2026-05-05T20:28:37.386Z
@@ -121,6 +147,15 @@
   error: "No items retrieved from URL:
     https://www.inc.com/jeff-haden/the-best-example-of-an-unforgettable-company\
     -wide-memo-was-written-30-years-ago-at-microsoft.html"
+- url: https://www.istockphoto.com/photos/memorandum
+  normalized_url: https://www.istockphoto.com/photos/memorandum
+  first_seen_at: 2026-05-08T03:00:50.867Z
+  last_attempted_at: 2026-05-08T03:00:50.867Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL: https://www.istockphoto.com/photos/memorandum"
 - url: https://www.kholia.org/reading-list/memos
   normalized_url: https://www.kholia.org/reading-list/memos
   first_seen_at: 2026-05-05T20:18:49.731Z
@@ -149,6 +184,15 @@
   status: success
   items_created: 1
   pipeline: agent-pipeline
+- url: https://www.template.net/blog/memo-samples/
+  normalized_url: https://www.template.net/blog/memo-samples
+  first_seen_at: 2026-05-08T02:52:10.673Z
+  last_attempted_at: 2026-05-08T02:52:10.673Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL: https://www.template.net/blog/memo-samples/"
 - url: https://www.theatlantic.com/national/archive/2013/08/civil-rights-cambodia-and-cuba-memos-that-made-history/278559/
   normalized_url: https://www.theatlantic.com/national/archive/2013/08/civil-rights-cambodia-and-cuba-memos-that-made-history/278559
   first_seen_at: 2026-05-07T23:21:35.679Z
