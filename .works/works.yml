@@ -27,14 +27,16 @@ settings:
     hero_badge_text: Famous Memos, Historical Documents & Templates
     hero_title: Memos Worth
     hero_title_gradient: Reading Twice
-    hero_description: A curated collection of notable memos, historical documents
-      and memo templates — what each says, how it came to be written and the
-      context that made it matter, with an image of the original wherever one is
-      available.
+    hero_description: A curated collection of notable memos, historical documents and memo templates — what each says, how it came to be written and the context that made it matter, with an image of the original wherever one is available.
   footer:
     subscribe_enabled: true
     version_enabled: true
     theme_selector_enabled: true
+  monetization:
+    sponsor_ads:
+      currency: USD
+      weekly_price: 100
+      monthly_price: 300
 pagination:
   type: standard
   itemsPerPage: 12
@@ -48,9 +50,7 @@ metadata:
     update_with_pull_request: false
     website_repository_creation_method: create-using-template
     name: Awesome Memos
-    prompt: Directory of best memos. Make sure each memo has a picture at minimum
-      and some description that include what does it mean, how it was created,
-      some context etc.
+    prompt: Directory of best memos. Make sure each memo has a picture at minimum and some description that include what does it mean, how it was created, some context etc.
     providers:
       pipeline: agent-pipeline
       search: tavily
@@ -72,9 +72,7 @@ metadata:
       max_results_per_query: 5
       max_pages_to_process: 10
       ai_first_generation_enabled: false
-  initial_prompt: Directory of best memos. Make sure each memo has a picture at
-    minimum and some description that include what does it mean, how it was
-    created, some context etc.
+  initial_prompt: Directory of best memos. Make sure each memo has a picture at minimum and some description that include what does it mean, how it was created, some context etc.
 name: Awesome Memos
 providers:
   search: tavily
@@ -82,9 +80,7 @@ providers:
   ai: openrouter
   pipeline: agent-pipeline
 website_repo: ever-works/awesome-memos-website
-initial_prompt: Directory of best memos. Make sure each memo has a picture at
-  minimum and some description that include what does it mean, how it was
-  created, some context etc.
+initial_prompt: Directory of best memos. Make sure each memo has a picture at minimum and some description that include what does it mean, how it was created, some context etc.
 deployProvider: vercel
 activity_sync:
   mode: pull
