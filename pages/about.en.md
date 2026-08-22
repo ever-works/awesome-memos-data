@@ -1,12 +1,12 @@
 ---
 title: About Awesome Memos
-description: Awesome Memos is a curated collection of notable memos, historical documents and memo templates, each with an image and context.
+description: Awesome Memos is a curated collection of notable memos, historical documents and memo templates, with context and, where available, an image of the original.
 lastUpdated: 2026-08-22
 ---
 
 # About Awesome Memos
 
-Awesome Memos is a curated, continuously updated collection of memos worth reading — influential internal memos from companies and governments, historical documents, and practical memo templates you can reuse. Every entry includes an image of the memo and a description of what it means, how it was created and the context around it.
+Awesome Memos is a curated, continuously updated collection of memos worth reading — influential internal memos from companies and governments, historical documents, and practical memo templates you can reuse. Every entry has a description of what it means, how it was created and the context around it, and most include an image of the memo itself.
 
 ## What you'll find here
 

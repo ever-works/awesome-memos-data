@@ -27,7 +27,7 @@ settings:
     hero_badge_text: Famous Memos, Historical Documents & Templates
     hero_title: Memos Worth
     hero_title_gradient: Reading Twice
-    hero_description: A curated collection of notable memos, historical documents and memo templates — each with an image, what it says, how it came to be written and the context that made it matter.
+    hero_description: A curated collection of notable memos, historical documents and memo templates — what each says, how it came to be written and the context that made it matter, with an image of the original wherever one is available.
   footer:
     subscribe_enabled: true
     version_enabled: true
